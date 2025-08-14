@@ -5,5 +5,9 @@ function u_FonteA()
     Alert("Fonte A")
     Alert("Fonte A1")
     Alert( "alteracoes feita em paralelo a branch newBranch" )
+    Alert("Fonte A2")
+    Alert("Fonte A3")
+    Alert("Fonte A4")
+    Alert( "Fonte A5" )
     
 return
