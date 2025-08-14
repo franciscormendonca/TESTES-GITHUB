@@ -4,5 +4,6 @@ function u_FonteB()
 
     Alert("Fonte B")
     Alert("Fonte B1")
+    Alert( "da mesma forma aqui... alteracoes feita em paralelo a branch newBranch" )
 
 return() 
