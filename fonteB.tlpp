@@ -1,0 +1,7 @@
+#include 'tlpp-core.th'
+
+function u_FonteB()
+
+    Alert("Fonte B")
+
+return() 
