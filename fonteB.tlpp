@@ -3,5 +3,6 @@
 function u_FonteB()
 
     Alert("Fonte B")
+    Alert("Fonte B1")
 
 return() 
