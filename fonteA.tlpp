@@ -4,5 +4,7 @@ function u_FonteA()
 
     Alert("Fonte A")
     Alert("Fonte A1")
+    Alert("Fonte A2")
+    Alert("Fonte A3")
     
 return
