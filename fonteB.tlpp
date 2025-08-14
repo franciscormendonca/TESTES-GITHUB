@@ -6,5 +6,7 @@ function u_FonteB()
     Alert("Fonte B1")
     Alert("Fonte B2")
     Alert("Fonte B3")
+    Alert("Fonte B4")
+    Alert("Fonte B5")
 
 return() 
